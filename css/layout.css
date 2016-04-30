@@ -297,6 +297,10 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+.img{
+    width: 400px;
+    height: auto;
+}
 
 .bars {
 	width: 95%;
@@ -344,7 +348,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 .illustrator {
-  	width: 95%;
+  	width: 90%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -503,6 +507,9 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
+    position:absolute;
+    top:30%;
+    left:30%;
    color: #fff;
 
 }
@@ -510,6 +517,9 @@ ul#nav li.current a { color: #F06000; }
    font: 12px/18px 'opensans-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
+    position:absolute;
+    top:40%;
+    left:30%;
 
 }
 
