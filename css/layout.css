@@ -343,12 +343,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .presentation {
-  	width: 90%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .communication {
-  	width: 90%;
+  	width: 85%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -368,18 +368,18 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .business {
-  	width: 65%;
+  	width: 75%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
 @-moz-keyframes presentation {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes communication {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes proposal {
   0%   { width: 0px;  }
@@ -395,16 +395,16 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes business {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 75%;  }
 }
 
 @-webkit-keyframes presentation {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes communication {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes proposal {
   0%   { width: 0px;  }
@@ -420,7 +420,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes business {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 75%;  }
 }
 
 /* ------------------------------------------------------------------ */
